@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 Hi, I'm Yogendra Tiwari<br><br>Engineering student focused on **Data Science, AI/ML, and Backend Development**, currently targeting **AI/ML Engineer** roles.<br><br>### 🛠️ Technical Skills<br><br>**Languages:**<br>Python • SQL<br><br>**Data & ML:**<br>NumPy • Pandas • Scikit-learn • Machine Learning<br><br>**Backend & Databases:**<br>FastAPI • PostgreSQL • REST APIs<br><br>**Tools & Development:**<br>Git • GitHub<br><br>**Currently Exploring:**<br>LLMs • Generative AI • RAG • AI Agents 
+👋 Hi, I'm Yogendra Tiwari<br><br>Engineering student focused on **Data Science, AI/ML, and Backend Development**, currently targeting **AI/ML Engineer** roles.<br><br>🛠️ Technical Skills<br><br>**Languages:**<br>Python • SQL<br><br>**Data & ML:**<br>NumPy • Pandas • Scikit-learn • Machine Learning<br><br>**Backend & Databases:**<br>FastAPI • PostgreSQL • REST APIs<br><br>**Tools & Development:**<br>Git • GitHub<br><br>**Currently Exploring:**<br>LLMs • Generative AI • RAG • AI Agents 
 
 
 ## 🌐 Socials:
